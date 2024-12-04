@@ -1,0 +1,13 @@
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6); /* Black with 60% opacity */
+    border-radius: 10px; /* Optional: Rounded corners for a softer look */
+}
+
+.profile-picture {
+    border-radius: 50%;
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
